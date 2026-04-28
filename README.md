@@ -228,4 +228,4 @@ cyclic stochastic fluid flows. [Journal], [Volume], [Pages].
 
 ## License
 
-[To be specified — CC BY 4.0 recommended for Mendeley Data]
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
