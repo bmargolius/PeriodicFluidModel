@@ -217,11 +217,17 @@ The algorithm follows Margolius & O'Reilly (2026). The key steps are:
 
 ## Citation
 
-If you use this code, please cite:
+If you use this code, please cite both the paper and the code:
 
-```
-Margolius, B. and O'Reilly, O. (2026). Asymptotic periodic analysis of 
-cyclic stochastic fluid flows. [Journal], [Volume], [Pages].
+**Paper:**
+Margolius, B. and O'Reilly, M. M. (2026). Cyclic stochastic fluid flows 
+with time-varying transition rates: Asymptotic periodic analysis. 
+[Journal], [Volume], [Pages].
+
+**Code:**
+Margolius, B. and O'Reilly, M. M. (2026). PeriodicFluidModel: MATLAB code 
+for asymptotic periodic analysis of cyclic stochastic fluid flows. 
+Zenodo. https://doi.org/10.5281/zenodo.19868591
 ```
 
 ---
